@@ -1,0 +1,5 @@
+Information that can be seen from this data set is as follows:
+In Urban areas there is a higher percentage of drivers for Pyber and they also have a higher percentage of fares.
+It also shows that Pyber is very popular in rural areas as they have a higher percentage of rides by city type.
+
+The amount the Pyber is used in suburban area is very minimal as the percentages across all information presented is less than 35 %.
